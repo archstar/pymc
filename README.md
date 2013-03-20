@@ -1,5 +1,5 @@
-Simple Minecraft Status
-=======================
+pymc
+====
 
-This is a simple library and command line tool written in Python for
-querying basic vital information from Minecraft beta and higher servers.
+Polls a minecraft server and returns some stats. Also sends boxcar notifications.
+Requires: https://github.com/sharl/boxcar-growl at /usr/local/bin/boxcar
